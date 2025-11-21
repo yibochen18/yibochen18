@@ -54,6 +54,12 @@ I enjoy working across the stack, from **C++ at the systems layer** to **full-st
 </tr>
 </table>
 
+---
+
+## 🔬 Past Research
+
+**ML-Prefetching Research - Systopia (UBC)**  
+Explored machine-learning approaches to software prefetching by evaluating existing models and testing architectural variations to improve prediction accuracy on custom workloads.
 
 ---
 
